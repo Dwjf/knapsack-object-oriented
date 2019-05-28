@@ -7,4 +7,4 @@ This implementation consists of three files. The main Chromosome class definitio
 
 The main execution is in Exec_chrome
 
-The data files are under Chrome_data
+The data files are under Chrome_values.py
