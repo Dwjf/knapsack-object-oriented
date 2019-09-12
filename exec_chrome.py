@@ -3,7 +3,7 @@ from Chrome_values import value,cost,constraint
 from Chromosome import Chromosome
 
 def main(n,cost,value):
-    "Iterate and save best result.Test"
+    "Iterate and save best result.Test.Retest"
     optimal = 0
     best_binary=[]
     best_weight = []
